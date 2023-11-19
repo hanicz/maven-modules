@@ -72,7 +72,7 @@
 							<outputDirectory>${project.parent.basedir}/public</outputDirectory>
 							<resources>
 								<resource>
-									<directory>dist/ui-module</directory>
+									<directory>${project.parent.basedir}/UI-module/src/main/resources/browser</directory>
                                     <includes>
                                         <include>index.html</include>
                                     </includes>

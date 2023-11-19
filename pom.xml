@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 	<modules>
 		<module>UI-module</module>
+        <module>Spring-module</module>
 	</modules>
 
     <groupId>maven.modules</groupId>
